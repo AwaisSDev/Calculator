@@ -23,9 +23,8 @@ This is **Project 2** of my **50 Projects in 50 Days** challenge.
 - Backspace removes the last character.
 - `C` clears the whole display.
 
-## 📸 Preview
+## 🔧 Setup
 
-![screenshot](preview.png)
-
-## 📁 Project Structure
-
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/AwaisSDev/calculator.git
